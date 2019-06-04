@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\ST\ST\bin\Debug\ST.exe.config
+C:\Users\Zane\source\repos\ST\ST\bin\Debug\ST.exe
+C:\Users\Zane\source\repos\ST\ST\bin\Debug\ST.pdb
+C:\Users\Zane\source\repos\ST\ST\obj\Debug\ST.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\ST\ST\obj\Debug\ST.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\ST\ST\obj\Debug\ST.exe
+C:\Users\Zane\source\repos\ST\ST\obj\Debug\ST.pdb

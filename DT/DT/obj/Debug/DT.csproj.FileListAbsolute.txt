@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\DT\DT\bin\Debug\DT.exe.config
+C:\Users\Zane\source\repos\DT\DT\bin\Debug\DT.exe
+C:\Users\Zane\source\repos\DT\DT\bin\Debug\DT.pdb
+C:\Users\Zane\source\repos\DT\DT\obj\Debug\DT.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\DT\DT\obj\Debug\DT.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\DT\DT\obj\Debug\DT.exe
+C:\Users\Zane\source\repos\DT\DT\obj\Debug\DT.pdb

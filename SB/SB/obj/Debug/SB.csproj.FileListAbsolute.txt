@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\SB\SB\bin\Debug\SB.exe.config
+C:\Users\Zane\source\repos\SB\SB\bin\Debug\SB.exe
+C:\Users\Zane\source\repos\SB\SB\bin\Debug\SB.pdb
+C:\Users\Zane\source\repos\SB\SB\obj\Debug\SB.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\SB\SB\obj\Debug\SB.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\SB\SB\obj\Debug\SB.exe
+C:\Users\Zane\source\repos\SB\SB\obj\Debug\SB.pdb

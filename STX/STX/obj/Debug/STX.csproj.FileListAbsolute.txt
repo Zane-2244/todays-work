@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\STX\STX\bin\Debug\STX.exe.config
+C:\Users\Zane\source\repos\STX\STX\bin\Debug\STX.exe
+C:\Users\Zane\source\repos\STX\STX\bin\Debug\STX.pdb
+C:\Users\Zane\source\repos\STX\STX\obj\Debug\STX.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\STX\STX\obj\Debug\STX.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\STX\STX\obj\Debug\STX.exe
+C:\Users\Zane\source\repos\STX\STX\obj\Debug\STX.pdb

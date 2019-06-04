@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\SID\SID\bin\Debug\SID.exe.config
+C:\Users\Zane\source\repos\SID\SID\bin\Debug\SID.exe
+C:\Users\Zane\source\repos\SID\SID\bin\Debug\SID.pdb
+C:\Users\Zane\source\repos\SID\SID\obj\Debug\SID.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\SID\SID\obj\Debug\SID.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\SID\SID\obj\Debug\SID.exe
+C:\Users\Zane\source\repos\SID\SID\obj\Debug\SID.pdb
